@@ -5,7 +5,6 @@ Using the same dataset I used in my earlier analysis project, I created a dashbo
 
 [# Project 2 - Chicken Noodle Customer Database (ERD & SQL Queries)](https://github.com/nurrrcahyo/mie_ayam)
 In this project, I tried to imagine that I have a chicken noodle stall. To analyze my customers, I designed a simple database in hope that I could improve my sales through the data I store in this database. In this repository, I uploaded the Entity Relational Diagram (ERD) and its SQL queries to create them.
-![ERD](https://github.com/nurrrcahyo/mie_ayam/blob/main/Mi%20Ayam%20(Chicken%20Noodle)%20ERD.png)
 
 [# Project 3 - Coffee Sales Exploratory Analysis](https://github.com/nurrrcahyo/coffeesales_exploratoryanalysis)
 In this analysis, we will see customer behavior by looking at spending patterns, drink preferences, and arrival times, based on the payment method. By exploring these details, we get a clearer picture of how cash and card users differ in their choices and habits, helping us understand trends that could be useful for targeted decisions.
